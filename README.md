@@ -9,9 +9,10 @@
 
 1) **Godown_New.ipynb**
         
-        Prediction of safe days using Decision tree, Random Forest, KNN and Naive Bayes. Comparison of the accuracy of the algorithms.
+        Prediction of safe days using Decision tree, Random Forest, KNN and Naive Bayes. 
+        Comparison of the accuracy of the algorithms.
 
 2) **Warehouse.ipynb**
         
-        Retrieval of data sensed by RaspberryPi from SQL database, application of Support Vector Machine algorithm, prediction of safe 
-        days and storing it back into the database.
+        Retrieval of data sensed by RaspberryPi from SQL database, application of Support Vector Machine algorithm, 
+        prediction of safe days and storing it back into the database.
