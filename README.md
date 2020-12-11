@@ -2,7 +2,8 @@
 
     CODE-OFF-DUTY is an event of DSC WOW, where innovators get an opportunity to merge their creative ideas with their coding skills
     to build something exemplary. It's a place where your ideas will get acknowledged. More than 36 hrs of inspiring panel discussion,
-    working and collaborating on futuristic and empowering tech products, networking opportunities with budding developers and lots of fun!
+    working and collaborating on futuristic and empowering tech products, networking opportunities with budding developers and lots of 
+    fun!
     
 *Repository description:*
 
