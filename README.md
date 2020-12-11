@@ -7,12 +7,18 @@
     
 *Repository description:*
 
-1) **Godown_New.ipynb**
+1) **SAFE_STORAGE.ipynb**
         
         Prediction of safe days using Decision tree, Random Forest, KNN and Naive Bayes. 
         Comparison of the accuracy of the algorithms.
 
-2) **Warehouse.ipynb**
+2) **SAFE_STORAGE_SVM.ipynb**
+        
+        Prediction of safe days using Support Vector Machine. 
+        Comparison of the accuracy of the algorithms.
+        
+
+3) **CSV to DB.ipynb**
         
         Retrieval of data sensed by RaspberryPi from SQL database, application of Support Vector Machine 
         algorithm, prediction of safe days and storing it back into the database.
