@@ -22,3 +22,8 @@
         
         Retrieval of data sensed by RaspberryPi from SQL database, application of Support Vector Machine 
         algorithm, prediction of safe days and storing it back into the database.
+
+4) **raspberry-pi-online-simulator-code**
+
+        This code is used to get live data from Raspberry online simulator and send  to azure iot hub 
+        for the demonstration of our project.
